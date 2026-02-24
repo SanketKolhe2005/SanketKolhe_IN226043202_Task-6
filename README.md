@@ -2,7 +2,7 @@
 
 📌 Overview
 
-This repository contains solutions for Task 6: Function-Based Problem Solving as part of the Data Science Internship program.
+This repository contains solutions for Task 6: Function-Based Problem Solving as part of the Internship program.
 
 The objective of this assignment is to build practical, real-world systems using Python functions and structured programming concepts. Each problem simulates applications used in modern technology environments such as smart infrastructure, cloud computing, logistics, and event management systems.
 
@@ -83,6 +83,7 @@ Real-world application: Webinar platforms and conference registration systems.
 📂 Project Structure
 
 Assignment_6_Function_Problems.ipynb
+
 README.md
 
 🎯 Key Learning Outcomes
